@@ -19,3 +19,9 @@ const useStyles = makeStyles((theme) => ({
     minHeight: 400,
   },
 }));
+
+const Home = () => {
+  return <p>Hello World</p>;
+};
+
+export default Home;
